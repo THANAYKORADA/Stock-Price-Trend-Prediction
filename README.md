@@ -10,5 +10,3 @@ This repository contains code for predicting stock market movements using logist
 - Logistic regression model for binary classification.
 - Evaluation using metrics like accuracy, precision, recall, and confusion matrix.
 - Visualization of actual vs predicted stock price movements.
-
-For a detailed explanation, check out my [Medium article](https://hulela.co.za/stock-price-forecasting-logistic-regression-4a35fbc65173).
